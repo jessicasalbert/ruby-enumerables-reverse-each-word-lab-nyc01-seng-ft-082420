@@ -7,4 +7,4 @@ def reverse_each_word(sentence)
   return reversed.join(" ")
 end
 
-reverse_each_word("Hi, how are you?")
+puts reverse_each_word("Hi, how are you?")
