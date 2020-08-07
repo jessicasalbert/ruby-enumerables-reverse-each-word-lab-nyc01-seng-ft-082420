@@ -7,3 +7,5 @@ def reverse_each_word(sentence)
   end
   return reverse.join(" ")
 end
+
+reverse_each_word("Hi, how are you?")
